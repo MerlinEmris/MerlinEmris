@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MerlinEmris/MerlinEmris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Vue admin panel
 - 🌱 I’m currently learning Vue/Nuxt and FastApi
 - 👯 I’m looking to collaborate on Skype
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@merlinemris96](https://twitter.com/merlinemris96)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
