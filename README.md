@@ -1,6 +1,6 @@
 <!-- <img width="100%" src="https://github.com/MerlinEmris/MerlinEmris/blob/main/Black%20Flat%20%26%20Minimalist%20Accounting%20Business%20Website.gif" alt="Hi I'm Merdan"> -->
 
-<div style="color=orange; align-text=center"> Fullstack web developer </div>
+<div style="color='green'; align="center"> Fullstack web developer </div>
 
 ---
 
