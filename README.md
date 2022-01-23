@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I’m currently working on Nuxt app
-- 🌱 I’m currently learning Vue/Nuxt and FastApi
+- 🌱 I’m currently learning Go, Docker
 - 👯 I’m looking to collaborate on Skype
 - 🤔 I’m looking for help with Microservices
 - 💬 Ask me about python(Django), php(Laravel), javascript(Vue, React)
