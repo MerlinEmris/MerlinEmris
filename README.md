@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on Skype
 - 🤔 I’m looking for help with Microservices
-- 💬 Ask me about python(Django), php(Laravel), javascript(Vue, React)
+- 💬 Ask me about python(Django,Flask), javascript(Vue, React)
 - 😄 Pronouns: He/His
 
 ---
