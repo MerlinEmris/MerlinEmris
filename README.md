@@ -1,16 +1,12 @@
 <div align="center">Hi I'm Merdan</div>
 
 <div color="green" align="center"> Fullstack web developer </div>
-
 ---
-
 - 🔭 I’m currently working on Quasar app
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Skype
 - 💬 Ask me about python(Django,Flask), javascript(Vue, React)
-
 ---
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
