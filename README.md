@@ -1,6 +1,7 @@
 <div align="center">Hi I'm Merdan</div>
 
 <div color="green" align="center"> Fullstack web developer </div>
+
 ---
 
 - 🔭 I’m currently working on Quasar app
