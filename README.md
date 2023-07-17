@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on Quasar app
+- 🔭 I’m currently working on Python app
 
 - 🌱 I’m currently learning Go
 
