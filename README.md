@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Python app
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning AI development
 
-- 👯 I’m looking to collaborate on Skype
+- 👯 I’m looking to collaborate on Skype, Telegram
 
 - 💬 Ask me about python(Django,Flask), javascript(Vue, React)
 
