@@ -1,6 +1,5 @@
-<div align="center">Hi I'm Merdan</div>
 
-<div color="green" align="center"> Fullstack web developer </div>
+<img style="margin: 10px" src="terminal.gif" /> 
 
 ---
 
