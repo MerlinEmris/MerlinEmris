@@ -75,7 +75,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlinemris&layout=compact)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
