@@ -54,6 +54,11 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ## Connect with me
 
 <div align="center">
