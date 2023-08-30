@@ -22,7 +22,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=merlinemris&theme=merko&border_radius=7.2&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-
 ---
 ## My Skill Set
 
@@ -76,6 +75,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlinemris&layout=compact)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
