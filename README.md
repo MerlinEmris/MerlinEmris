@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Python app
 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning concurrent programming in golang
 
 - 👯 I’m looking to collaborate on Skype, Telegram
 
