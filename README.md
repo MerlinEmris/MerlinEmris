@@ -79,20 +79,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 August 2021 - To: 30 August 2023
+From: 25 August 2021 - To: 31 August 2023
 
-Total Time: 670 hrs 8 mins
+Total Time: 674 hrs 2 mins
 
-Vue.js                     511 hrs 44 mins >>>>>>>>>>>>>>>>>>>------   76.11 %
-TypeScript                 43 hrs 33 mins  >>-----------------------   06.48 %
-Python                     41 hrs 31 mins  >>-----------------------   06.18 %
-JavaScript                 40 hrs 29 mins  >>-----------------------   06.02 %
-Bash                       7 hrs 18 mins   -------------------------   01.09 %
-JSON                       6 hrs 13 mins   -------------------------   00.92 %
-YAML                       3 hrs 37 mins   -------------------------   00.54 %
+Vue.js                     512 hrs 14 mins >>>>>>>>>>>>>>>>>>>------   75.75 %
+TypeScript                 45 hrs 8 mins   >>-----------------------   06.68 %
+Python                     41 hrs 31 mins  >>-----------------------   06.14 %
+JavaScript                 40 hrs 29 mins  >------------------------   05.99 %
+Bash                       7 hrs 18 mins   -------------------------   01.08 %
+JSON                       6 hrs 18 mins   -------------------------   00.93 %
+YAML                       4 hrs 9 mins    -------------------------   00.61 %
 Text                       3 hrs 27 mins   -------------------------   00.51 %
-Docker                     2 hrs 38 mins   -------------------------   00.39 %
-Markdown                   2 hrs 34 mins   -------------------------   00.38 %
+Docker                     2 hrs 43 mins   -------------------------   00.40 %
+Markdown                   2 hrs 42 mins   -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
