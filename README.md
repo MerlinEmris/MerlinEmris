@@ -10,13 +10,7 @@
 - 👯 I’m looking to collaborate on Skype, Telegram
 
 - 💬 Ask me about python(Django,FastApi), php(Laravel), javascript || typescript (Vue, React, nestjs), go(fiber)
-
-
-
 <!-- [![Merdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlinemris)](https://github.com/merlinemris/github-readme-stats) -->
-
-
-
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-merlinemris&label=PROFILE+VIEWS&style=flat-square&color=dc143c) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=merlinemris&theme=merko&border_radius=7.2&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
@@ -110,6 +104,7 @@ Other                      4 hrs 45 mins   -------------------------   00.70 %
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.io/merlinemris" target="_blank">
+
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/merdan4yarov/" target="_blank">
