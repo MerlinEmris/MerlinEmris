@@ -70,7 +70,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlinemris&layout=compact) -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!--START_SECTION1:waka example-->
+<!--START_SECTION:waka-->
 
 ```rust
 From: 25 August 2021 - To: 19 September 2023
@@ -84,7 +84,7 @@ JavaScript                 41 hrs 9 mins   >------------------------   05.89 %
 Other                      8 hrs 58 mins   -------------------------   01.29 %
 ```
 
-<!--END_SECTION1:waka example-->
+<!--END_SECTION:waka-->
 
 
 <br/>
