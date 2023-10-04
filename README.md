@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on Skype, Telegram
 
 - 💬 Ask me about python(Django,FastApi), php(Laravel), javascript || typescript (Vue, React, nestjs), go(fiber)
+- and coding with love
 <!-- [![Merdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlinemris)](https://github.com/merlinemris/github-readme-stats) -->
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-merlinemris&label=PROFILE+VIEWS&style=flat-square&color=dc143c) -->
 
@@ -98,4 +99,4 @@
 </a>  
 </div>
 
-coding with love
+
