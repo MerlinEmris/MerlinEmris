@@ -3,14 +3,14 @@
 
 ---
 
-- 🔭 I’m currently working on Python app
+- 🔭 I’m currently working on Python app.
 
-- 🌱 I’m currently learning concurrent programming in golang
+- 🌱 I’m currently learning concurrent programming in golang.
 
-- 👯 I’m looking to collaborate on Skype, Telegram
+- 👯 I’m looking to collaborate on Skype, Telegram.
 
-- 💬 Ask me about python(Django,FastApi), php(Laravel), javascript || typescript (Vue, React, nestjs), go(fiber)
-- and coding with love
+- 💬 Ask me about python(Django,FastApi), php(Laravel), javascript || typescript (Vue, React, nestjs), go(fiber),
+- and coding with love.
 <!-- [![Merdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlinemris)](https://github.com/merlinemris/github-readme-stats) -->
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-merlinemris&label=PROFILE+VIEWS&style=flat-square&color=dc143c) -->
 
