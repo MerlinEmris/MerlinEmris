@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning concurrent programming in golang
 
-- 👯 I’m looking to collaborate on Skype, Telegram
+- 👯 I’m looking to collaborate on WhatsUp, Telegram, Discord
 
 - 💬 Ask me about python(Django,FastApi), php(Laravel), javascript || typescript (Vue, React, nestjs), go(fiber)
 - and coding with love
 <!-- [![Merdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=merlinemris)](https://github.com/merlinemris/github-readme-stats) -->
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-merlinemris&label=PROFILE+VIEWS&style=flat-square&color=dc143c) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=merlinemris&theme=merko&border_radius=7.2&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=merlinemris&theme=merko&border_radius=7.2&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats) -->
 
----
+<!-- ---
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -63,7 +63,7 @@
           
 </div>
 
-</td></tr></table>
+</td></tr></table> -->
 
 <br/>
 
